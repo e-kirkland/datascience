@@ -7,6 +7,17 @@ Welcome to my online GitHub repository. Below are some of my recent personal Dat
 [LinkedIn](https://www.linkedin.com/in/eddie-k-239a63197)
 
 # Data Science Projects #
+
+## [Data Engineer Assessment](https://github.com/e-kirkland/datascience/tree/master/Data%20Engineer%20Assessment) ##
+* Real-world assessment used by big-data company to test for engineering skill
+* Completed in time limit of two hours
+* Cleaned, merged and transformed data into useable format for machine learning
+
+## [Predicting Car Prices](https://github.com/e-kirkland/datascience/tree/master/Predicting%20Car%20Prices) ##
+* Created machine-learning algorithm for predicting car prices
+* Used K-Nearest Neighbors model from scikit-learn library
+* Optimized model through feature selection and hyperparameter tuning
+
 ## [Increasing Kaggle Revenue: Analyzing user data to recommend the best new product](https://github.com/e-kirkland/datascience/tree/master/Kaggle%20Survey) ##
 * Analyzed user survey to determine most profitable future revenue source
 * Cleaned/visualized data using pandas/matplotlib libraries in Python
