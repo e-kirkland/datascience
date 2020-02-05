@@ -13,6 +13,11 @@ Welcome to my online GitHub repository. Below are some of my recent personal Dat
 * Completed in time limit of two hours
 * Cleaned, merged and transformed data into useable format for machine learning
 
+## [Predicting House Prices](https://github.com/e-kirkland/datascience/tree/master/Predicting%20House%20Prices)
+* Created linear regression model for predicting car prices
+* Optimized model through feature selection, feature engineering, and hyperparameter tuning
+* Tested model through holdout, cross and K-fold validation
+
 ## [Predicting Car Prices](https://github.com/e-kirkland/datascience/tree/master/Predicting%20Car%20Prices) ##
 * Created machine-learning algorithm for predicting car prices
 * Used K-Nearest Neighbors model from scikit-learn library
