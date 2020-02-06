@@ -18,6 +18,10 @@ Welcome to my online GitHub repository. Below are some of my recent personal Dat
 * Optimized model through feature selection, feature engineering, and hyperparameter tuning
 * Tested model through holdout, cross and K-fold validation
 
+## [Predicting Bike Rentals](https://github.com/e-kirkland/datascience/blob/master/Predicting%20Bike%20Rentals/Predicting%20Bike%20Rentals.ipynb)
+* Created linear regression, decision tree and random forest models
+* Optimized model through feature selection and model hyper parameter tuning
+
 ## [Predicting Car Prices](https://github.com/e-kirkland/datascience/tree/master/Predicting%20Car%20Prices) ##
 * Created machine-learning algorithm for predicting car prices
 * Used K-Nearest Neighbors model from scikit-learn library
